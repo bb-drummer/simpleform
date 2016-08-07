@@ -37,6 +37,6 @@ please see LICENSE file in project's root directory
 
 ## COPYRIGHT
 
-&copy; 2007 [Björn Bartels], coding@bjoernbartels.earth, all rights reserved.
+&copy; 2007, 2016 [Björn Bartels], coding@bjoernbartels.earth, all rights reserved.
 
 
